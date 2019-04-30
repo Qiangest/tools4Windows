@@ -3,6 +3,11 @@ Sorted by first letter.
 ---
 ### ColorPix
 超级轻量级的窗口取色器。信息包括当前光标的坐标、RGB/HEX/HSB/CMYK等。
+
+### [Daemon Sync](https://www.daemon-tools.cc/chn/products/daemonsync)
+
+可以自动通过wifi备份你移动设备的照片到电脑，全平台适用。
+
 ### [Ditto](http://ditto-cp.sourceforge.net/)
 强大的剪贴板增强软件，保留复制记录，甚至看，可以局域网共享，关键还是免费！
 ### f.lux
@@ -17,6 +22,8 @@ Sorted by first letter.
 一款专注于抹除图片水印的工具，体积很小。
 ### [朗读女](http://www.443w.com/)
 可以把文本转换为语音的软件，支持第三方语音库和自定义格式，对于需要TTS/练习听力的同学来说是一个福利了。
+### licecap
+方便的Gif录制工具
 ### Listary
 小而美的文件快速搜索工具。初始化后只需连续按两次Ctrl即可搜索，可以说是毫无延迟。
 ### MPic
@@ -34,7 +41,9 @@ Sorted by first letter.
 ### 小黄条
 简约的todo List.在桌面上的常驻半透明部件，可在任务栏隐藏，支持云同步。支持贴边自动隐藏。比起其他乱七八糟的软件不知道要高到哪里去了。
 
+### [自同步](http://www.zisync.com/)
 
+一个国产局域网同步、备份和分享软件，虽然已经很久不更新了，但基本的使用还是没有问题。我把他用来备份手机里的照片，然后再利用OneDrive备份到云端。界面和适合国人的使用习惯。
 
 
 
@@ -42,4 +51,4 @@ Sorted by first letter.
 
 如果您也有好的windows平台可以解决某一问题的好用软件工具，欢迎fork/pull request.
 
-*If you also found some practical and efficient tools for Windows, ANY fork/pull wound be appriciated.*
+*If you also found some practical and efficient tools for Windows, ANY fork/pull will be appriciated.*
